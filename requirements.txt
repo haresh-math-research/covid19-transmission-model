@@ -1,0 +1,2 @@
+solution = odeint(sir_derivatives, y0, t, args=(N, beta, gamma))  numpy 
+scipy 
